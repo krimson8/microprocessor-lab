@@ -1,0 +1,52 @@
+MPLINK 5.08, LINKER
+Linker Map File - Created Thu Oct 26 17:19:09 2017
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x0000dc
+                   .cinit    romdata   0x0000dc    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x0000dd      
+            222 out of 33048 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    CHECK   0x000086    program     static C:\Users\User\Desktop\lab4.X\main.asm
+                  INITIAL   0x000000    program     static C:\Users\User\Desktop\lab4.X\main.asm
+                       LP   0x00006c    program     static C:\Users\User\Desktop\lab4.X\main.asm
+                     MAIN   0x00004e    program     static C:\Users\User\Desktop\lab4.X\main.asm
+                     SBRT   0x000064    program     static C:\Users\User\Desktop\lab4.X\main.asm
+                      SWP   0x000076    program     static C:\Users\User\Desktop\lab4.X\main.asm
+                  _19ENDD   0x0000da    program     static C:\Users\User\Desktop\lab4.X\main.asm
+                   _19IS1   0x000090    program     static C:\Users\User\Desktop\lab4.X\main.asm
+                   _19IS2   0x00009a    program     static C:\Users\User\Desktop\lab4.X\main.asm
+                    _19NO   0x0000a6    program     static C:\Users\User\Desktop\lab4.X\main.asm
+                   _19YES   0x0000be    program     static C:\Users\User\Desktop\lab4.X\main.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                  INITIAL   0x000000    program     static C:\Users\User\Desktop\lab4.X\main.asm
+                     MAIN   0x00004e    program     static C:\Users\User\Desktop\lab4.X\main.asm
+                     SBRT   0x000064    program     static C:\Users\User\Desktop\lab4.X\main.asm
+                       LP   0x00006c    program     static C:\Users\User\Desktop\lab4.X\main.asm
+                      SWP   0x000076    program     static C:\Users\User\Desktop\lab4.X\main.asm
+                    CHECK   0x000086    program     static C:\Users\User\Desktop\lab4.X\main.asm
+                   _19IS1   0x000090    program     static C:\Users\User\Desktop\lab4.X\main.asm
+                   _19IS2   0x00009a    program     static C:\Users\User\Desktop\lab4.X\main.asm
+                    _19NO   0x0000a6    program     static C:\Users\User\Desktop\lab4.X\main.asm
+                   _19YES   0x0000be    program     static C:\Users\User\Desktop\lab4.X\main.asm
+                  _19ENDD   0x0000da    program     static C:\Users\User\Desktop\lab4.X\main.asm
+
+
